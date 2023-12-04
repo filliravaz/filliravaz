@@ -6,7 +6,7 @@ Some of my bigger projects are closed source because they were on commission, bu
 
 Here are some of my stats:  
 [![MY Stats](https://github-readme-stats.vercel.app/api?username=vaio2005&layout=compact&show_icons=true)](https://github.com/vaio2005)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaio2005&layout=compact)](https://github.com/vaio2005)<br>
+Always working hard to get to the S+ tier! 💪
 
 ### How to contact me
 Feel free to use the contact email on my profile, or contact me on discord @ filliravaz
