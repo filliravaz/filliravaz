@@ -5,7 +5,7 @@ I am Filippo, an Italian high school ICT student.
 Some of my bigger projects are closed source because they were on commission, but you can find many of my smaller projects on my public repositories!  
 
 Here are some of my stats:  
-[![MY Stats](https://github-readme-stats-cyan-six-26.vercel.app/api?username=vaio2005&layout=compact&show_icons=true)](https://github.com/vaio2005)<br>
+[![MY Stats](https://github-readme-stats-cyan-six-26.vercel.app/api?username=vaio2005&layout=compact&show_icons=true&theme=dark)](https://github.com/vaio2005)<br>
 Always working hard to get to the S+ tier! 💪
 
 ### How to contact me
