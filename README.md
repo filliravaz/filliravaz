@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-I am Filippo, an Italian high school ICT student.
+I am Filippo, an Italian University student, currently studying Computer Engineering.
 
 Some of my bigger projects are closed source because they were on commission, but you can find many of my smaller projects on my public repositories!  
 
