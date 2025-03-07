@@ -6,7 +6,7 @@ Some of my bigger projects are closed source because they were on commission, bu
 
 Here are some of my stats:  
 [![MY Stats](https://github-readme-stats-cyan-six-26.vercel.app/api?username=filliravaz&layout=compact&show_icons=true&theme=dark&custom_title=filliravaz%27s%20GitHub%20Stats)](https://github.com/filliravaz)<br>
-Always working hard to get to the S+ tier! 💪
+
 
 ### How to contact me
 Feel free to use the contact email on my profile, or contact me on discord @ filliravaz
