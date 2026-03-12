@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-I am Filippo, an Italian University student, currently studying Computer Engineering.
+I am Filippo, an Italian Software Developer.
 
 Some of my bigger projects are closed source because they were on commission, but you can find many of my smaller projects on my public repositories!  
 
@@ -12,7 +12,8 @@ Here are some of my stats:
 Feel free to use the contact email on my profile, or contact me on discord @ filliravaz
 
 ### Places to mention
-I've contributed to the [Java MCSS Api wrapper](https://github.com/mcserversoft-community/mcss-api-java), and to the documentation for the MCSS app.
+I've recently developed a website for IRL events for a Star Citizen community I'm apart of. You can find the website [here](https://eventi.solaris.fun) (it's an italian group and therefore the website is in italian).
+In the past I also did some work on the public documentation and on the Java API wrapper for the MCServerSoft application. 
 
 ### Things I know
 
