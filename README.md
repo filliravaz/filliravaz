@@ -12,7 +12,7 @@ Here are some of my stats:
 Feel free to use the contact email on my profile, or contact me on discord @ filliravaz
 
 ### Places to mention
-I've recently developed a website for IRL events for a Star Citizen community I'm apart of. You can find the website [here](https://eventi.solaris.fun) (it's an italian group and therefore the website is in italian).
+I've recently developed a website for IRL events for a Star Citizen community I'm apart of. You can find the website [here](https://eventi.solaris.fun) (it's an italian group and therefore the website is in italian).  
 In the past I also did some work on the public documentation and on the Java API wrapper for the MCServerSoft application. 
 
 ### Things I know
