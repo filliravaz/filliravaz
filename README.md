@@ -13,7 +13,7 @@ Feel free to use the contact email on my profile, or contact me on discord @ fil
 
 ### Places to mention
 I've recently developed a website for IRL events for a Star Citizen community I'm apart of. You can find the website [here](https://eventi.solaris.fun) (it's an italian group and therefore the website is in italian - I don't manage the Cloudflare firewall and it may be blocked in some regions). The website is "source available", if you're interested in the code, contact me!  
-In the past I also did some work on the public documentation and on the Java API wrapper for the MCServerSoft application. 
+In the past I also did some work on the public documentation and on the Java API wrapper for the MCServerSoft application. The API wrapper is currently being rewritten in Kotlin, and will be made public when it is ready for public release.
 
 ### Things I know
 
